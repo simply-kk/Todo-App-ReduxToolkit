@@ -1,8 +1,25 @@
-# React + Vite
+# Todo App with Redux Toolkit and Vite
 
-This template provides a minimal setup to get Reacting in Vite with HMR and some ESLint rules.
+A simple and intuitive ToDo application built with React, Redux Toolkit, and Vite, providing efficient task management.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Add and Edit Tasks:** Easily add new tasks and edit existing ones with a user-friendly interface.
+
+- **Deletion:** Remove tasks that are no longer needed.
+
+- **Notifications:** Utilizes React-Toaster for seamless notification updates.
+
+## Technologies Used
+
+- **React:** A JavaScript library for building user interfaces.
+- **Redux Toolkit:** A set of tools to simplify state management in React applications.
+- **Vite:** A fast, opinionated web development build tool that serves your code via native ES Module imports during development.
+
+- **React-Toaster:** A notification library for React.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/simply-kk/Todo-App-ReduxToolkit.git
